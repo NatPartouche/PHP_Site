@@ -1,0 +1,107 @@
+body {
+font-family:verdana;
+color: dodgerblue;
+font-size:small;
+background-color:white;
+background-image:url(http://mediathequecasa.files.wordpress.com/2010/01/cinema1.jpg);
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-position:right bottom;
+
+}
+h1 {
+margin:50px 0px 0px 0px;
+font-family:verdana;
+font-size:x-large;
+color:dodgerblue;
+background-color:transparent;
+text-align:center;
+}
+h2 {
+font-family:verdana;
+font-size:medium;
+color:dodgerblue;
+background-color:transparent;
+text-align:center;
+}
+h3 {
+font-family:verdana;
+font-size:small;
+color:dodgerblue;
+background-color:transparent;
+text-align:center;
+}
+p {
+font-family:verdana;
+color:dodgerblue;
+background-color:transparent;
+text-align:center;
+margin-left:0px;
+margin-right:0px;
+}
+li {
+font-family:verdana;
+color:dodgerblue;
+background-color:transparent;
+text-align:center;
+margin-left:0px;
+margin-right:0px;
+}
+a:link {
+font-family:verdana;
+font-size:medium;
+color:dodgerblue;
+background-color:transparent;
+text-decoration:underline;
+}
+a:visited {
+font-family:verdana;
+font-size:medium;
+color:dodgerblue;
+background-color:transparent;
+text-decoration:underline;
+}
+a:hover {
+font-family:verdana;
+font-size:medium;
+color:pink;
+background-color:transparent;
+text-decoration:underline;
+}
+table {
+border:none;
+margin:auto;
+}
+th {
+font-family:verdana;
+font-size:small;
+color:dodgerblue;
+text-align:left;
+background-color:white;
+border-color:dodgerblue;
+border-style:none;
+border-width:1px;
+}
+td {
+font-family:verdana;
+font-size:x-small;
+color:dodgerblue;
+text-align:left;
+background-color:white;
+}
+input{
+font-family:verdana;
+font-size:small;
+font-weight:lighter;
+color:dodgerblue;
+text-align:left;
+background-color:white;
+}
+textarea{
+font-family:verdana;
+font-size:small;
+font-weight:lighter;
+color:dodgerblue;
+text-align:left;
+background-color:white;
+}
